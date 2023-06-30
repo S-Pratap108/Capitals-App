@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.main-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: #f8fafc;
+  padding: 50px;
+  border-radius: 25px;
+}
+
+.hdg {
+  font-size: 40px;
+}
+
+#capitals {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.label {
+  font-size: 18px;
+}
+
+.country {
+  font-size: 30px;
+}
