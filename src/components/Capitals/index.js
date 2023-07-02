@@ -53,8 +53,7 @@ class Capitals extends Component {
             ))}
           </select>
           <label className="label" htmlFor="capitals">
-            {' '}
-            is capital of which country?{' '}
+            is capital of which country?
           </label>
           <p className="country"> {country} </p>
         </div>
